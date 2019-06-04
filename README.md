@@ -1,6 +1,6 @@
 # Hotel-Registration
 
-Source Code Used In This Project:
+Source code used in this project:
 
 ***************************************************************************************/
 
