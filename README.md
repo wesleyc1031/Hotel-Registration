@@ -13,8 +13,6 @@ Source Code Used In This Project:
 
 ***************************************************************************************/
 
-***************************************************************************************/
-
 *    Title: PHP User Registration Form with MySQL & Image Upload
 *    Author: Clever Techie
 *    Date: February 1, 2017
