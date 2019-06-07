@@ -1,5 +1,7 @@
 # Hotel-Registration
 
+Currently in the process of writing the README.
+
 Source code used in this project:
 
 ***************************************************************************************/
